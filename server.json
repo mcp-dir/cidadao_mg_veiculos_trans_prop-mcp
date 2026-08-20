@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/cidadao_mg_veiculos_trans_prop-mcp",
+  "title": "Cidadão MG Veículos: Transferência de Propriedade de Veículo",
+  "description": "Cidadão MG Vehicles: Transferência de Propriedade de Vehicle, official-source lookup. Platform-hoste",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/cidadao_mg_veiculos_trans_prop-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_cidadao_mg_veiculos_trans_prop"
+    }
+  ]
+}
